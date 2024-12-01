@@ -83,4 +83,21 @@ Sometimes, annotations can explain the logic and motivation behind design choice
 For example, why would you choose a hamburger menu instead of a menu bar at the bottom of the screen? You can use an annotation to explain why.
 Lastly, annotations can also include best practices, recommendations, or even pending issues. 
 
+# 2. Low-Fidelity vs. High-Fidelity Wireframes #
+
+**Low-fidelity wireframes are simple, abstract sketches that focus on the basic structure and layout of a design, while high-fidelity wireframes are detailed and polished, closely resembling the final product.**
+
+**Here are some differences between low-fidelity and high-fidelity wireframes:**
+
+    •	Content
+    Low-fidelity wireframes contain little to no content, and use placeholder text and imagery. High-fidelity wireframes include all the imagery, editorial content, and branding elements the final product will contain. 
+    •	Detail
+    Low-fidelity wireframes are simple and abstract, while high-fidelity wireframes are detailed and polished. 
+    •	Time and cost
+    Low-fidelity wireframes are quick to create and cost-effective, while high-fidelity wireframes take more time and resources to create. 
+    •	Flexibility
+    Low-fidelity wireframes are easy to change or discard, allowing for rapid iteration and early-stage feedback. 
+    •	Purpose
+    Low-fidelity wireframes help focus on the overall structure and layout of the design, while high-fidelity wireframes provide a realistic aesthetic and a comprehensive view of the design. 
+    The term "fidelity" refers to how closely a design prototype or wireframe matches the product's final look, feel, and functionality.
 
