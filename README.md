@@ -99,5 +99,107 @@ Lastly, annotations can also include best practices, recommendations, or even pe
     Low-fidelity wireframes are easy to change or discard, allowing for rapid iteration and early-stage feedback. 
     •	Purpose
     Low-fidelity wireframes help focus on the overall structure and layout of the design, while high-fidelity wireframes provide a realistic aesthetic and a comprehensive view of the design. 
+
     The term "fidelity" refers to how closely a design prototype or wireframe matches the product's final look, feel, and functionality.
+
+
+## what type of wire frame is here?##
+
+**The given design is High fidality wireframe. and here are some of my reasons.**
+
+    •	Content
+
+    Interms of content it provide detailed content of the website.
+
+    •	Detail
+
+    Interms of detail it provide almost all details required to build it.
+
+    •	Purpose
+
+    The figma design fully provide the over all structure and layout
+    
+
+# 3. Wireframing Tools #
+
+Here are some popular wireframing tools and their features:
+
+**Balsamiq**
+
+A simple, low-fidelity tool with a "hand drawn" look. It has pre-built templates and a drag-and-drop editor. 
+
+**UXPin Mirror**
+
+
+A tool for wireframing, UX design, and mockups. It has features for sharing, commenting, and reviewing, as well as approval requests, task assignments, and notifications. 
+
+**Justinmind**
+
+
+A tool for creating low-fidelity wireframes and high-fidelity user interface designs. It has built-in UI components, widgets, and libraries. 
+
+
+**MockFlow**
+
+
+A versatile tool for wireframing, prototyping, and diagramming. It has a user-friendly interface and collaborative features. 
+
+**Moqups**
+
+
+A web-based tool with a user-friendly interface, multiple default templates, and adjustable alignment. 
+
+
+**Axure RP**
+
+
+A tool for advanced wireframing and prototyping. It has features like dynamic content, conditional logic, and adaptive views. 
+
+
+**Fluid UI**
+
+
+A tool that allows multiple designers and stakeholders to review and annotate wireframes. It also has interactive prototype animations and video calls. 
+
+
+**Proto.io**
+
+A cloud-based app that allows more than one designer to access a document simultaneously. 
+
+**Figma**
+Figma is a free, online UI tool that allows users to create, collaborate, prototype, and handoff. It's a popular tool for designers, product managers, writers, and developers.
+
+
+**The best Figma features and functions to know about**
+
+Figma is not only incredibly user-friendly but also packed with an impressive array of handy functions and features. Here are some of the best Figma features that really set this tool apart. 
+
+    Auto-layout feature
+
+    When designing website and app prototypes, it’s important to think about how your designs will look and perform across different devices and screen sizes. This requires responsive or adaptive design, and Figma’s auto-layout feature simplifies the process of creating adaptive layouts. 
+    Auto-layout is essentially a property you can add to frames and components within your designs, instructing them to automatically resize and reposition depending on the space available. 
+
+    Smart Selection
+
+    This feature was created to speed up some of the more repetitive design tasks—say, adjusting the spacing around all the icons on a screen or increasing the height of a group of elements on the page. 
+    With Smart Selection, you don’t need to tweak each element individually; you can select and manipulate multiple objects at the same time. 
+    Smart Selection works automatically on any selection or group of three or more elements with uniform spacing. With your chosen items selected, you can adjust their spacing, position, and size all at once. This makes it much easier (and faster) to experiment with different possibilities within your designs.  
+
+
+    Scale tool
+
+    The scale tool in Figma allows you to proportionally resize layers and objects. Once you’ve activated the scale tool (by pressing the ‘K’ key on your keyboard or selecting the relevant icon in the toolbar), simply select the object(s) you want to resize and either click and drag to scale up or down or enter the exact dimensions you want to apply. 
+    The scale tool preserves the aspect ratios of the selected elements, ensuring that the overall design remains consistent. 
+
+    Variants 
+
+    Throughout the design process, you’ll find that you need components that are largely similar to each other, with some slight differences or variations depending on the context or use case. 
+    With the variants feature in Figma, you can create different versions of a component (say, a button) within a single parent component. This is useful for managing different states, styles, or sizes of UI elements—and helps you to organize and simplify your component library. 
+
+    Real-time collaboration
+
+
+    This is not a feature per se, but it is one of Figma’s defining characteristics—and one of the reasons it’s so popular. Figma allows multiple users to work on the same design file simultaneously, facilitating seamless collaboration in real time. 
+
+
 
