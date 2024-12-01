@@ -11,6 +11,5 @@
 
     Support system requirements: Demonstrate the functionality of the system and visually support its behavior and requirements .
 
-**The wireframing process typically involves the following stages:**
 
 
